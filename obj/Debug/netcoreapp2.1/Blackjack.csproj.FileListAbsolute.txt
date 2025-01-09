@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\Desktop\BlackJack\bin\Debug\netcoreapp2.1\Blackjack.deps.json
+C:\Users\admin\OneDrive\Desktop\BlackJack\bin\Debug\netcoreapp2.1\Blackjack.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\BlackJack\bin\Debug\netcoreapp2.1\Blackjack.runtimeconfig.dev.json
+c:\Users\admin\OneDrive\Desktop\BlackJack\bin\Debug\netcoreapp2.1\Blackjack.dll
+c:\Users\admin\OneDrive\Desktop\BlackJack\bin\Debug\netcoreapp2.1\Blackjack.pdb
+c:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.csproj.AssemblyReference.cache
+c:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.AssemblyInfoInputs.cache
+c:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.AssemblyInfo.cs
+c:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.csproj.CoreCompileInputs.cache
+c:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.dll
+c:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.pdb
+C:\Users\admin\OneDrive\Desktop\BlackJack\obj\Debug\netcoreapp2.1\Blackjack.genruntimeconfig.cache
